@@ -1,0 +1,201 @@
+Em qual tipo de escola você estuda?,Em qual Região Adiministrativa (RA) você mora?,Quanto tempo demora o seu trajeto até a escola?,Qual meio de transporte utilizado?,Você trabalha enquanto não está na escola?,Pretende fazer ensino superior?,"Se sim, em qual tipo de instituição?",Qual área de estudo pretende seguir?,Algum responsável possui ensino superior?,"Se sim, em qual área?",Já teve contato com Robótica?,Já teve contato com programação?,Seus responsáveis incentivam você a continuar estudando após o ensino médio?,Seus responsáveis incentivam você a entrar para o mercado de trabalho logo após o término do ensino médio?,Pretende trabalhar logo que sair da escola?,Você participa de alguma atividade extracurricular?
+Pública,Águas Claras,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,4,Não,Sim
+Pública,Plano Piloto,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,2,Não,Sim
+Pública,Planaltina,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,Exatas,Não,Não,5,4,Sim,Sim
+Pública,Planaltina,21-40 minutos,Transporte Público,Sim,Sim,Pública,Exatas,Sim,Saúde,Não,Não,3,5,Sim,Não
+Particular,Sudoeste/Octogonal,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Não,Não,5,3,Não,Não
+Pública,Santa Maria,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Não,Exatas,Não,Não,3,2,Sim,Sim
+Particular,Sudoeste/Octogonal,1-20 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Exatas,Sim,Sim,5,4,Sim,Sim
+Pública,Jardim Botânico,1-20 minutos,Transporte Público,Sim,Sim,Pública,Exatas,Sim,Biológicas,Sim,Sim,5,5,Sim,Sim
+Pública,Planaltina,21-40 minutos,Transporte Público,Sim,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,5,5,Sim,Não
+Particular,Jardim Botânico,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Exatas,Sim,Sim,5,2,Não,Não
+Particular,Sudoeste/Octogonal,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Biológicas,Sim,Sim,5,3,Não,Sim
+Particular,Guará,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Sim,Sim,5,2,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Humanas,Não,Não,5,2,Sim,Não
+Particular,Candangolândia,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Não,5,5,Sim,Sim
+Particular,Cruzeiro,1-20 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Saúde,Sim,Não,5,3,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Exatas,Não,Sim,5,3,Não,Sim
+Particular,Arniqueira,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Exatas,Não,Sim,4,3,Sim,Sim
+Particular,Lago Sul,1-20 minutos,Transporte Particular,Não,Sim,Particular,Saúde,Sim,Humanas,Sim,Sim,5,5,Sim,Sim
+Particular,Jardim Botânico,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Humanas,Sim,Sim,5,3,Sim,Sim
+Particular,Planaltina,Uma hora ou mais,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,5,5,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Não,Não,5,1,Não,Sim
+Particular,Guará,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Não,,Não,Não,5,5,Sim,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Não,5,2,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Exatas,Não,Não,5,2,Não,Sim
+Particular,Lago Sul,21-40 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Biológicas,Sim,Sim,5,4,Não,Sim
+Pública,Plano Piloto,21-40 minutos,Transporte Público,Sim,Sim,Pública,Saúde,Não,,Não,Não,4,4,Sim,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Exatas,Sim,Sim,4,2,Não,Sim
+Particular,Park Way,21-40 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Sim,5,3,Sim,Não
+Particular,Plano Piloto,21-40 minutos,Transporte Particular,Sim,Sim,Pública,Humanas,Sim,Saúde,Sim,Sim,5,5,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Saúde,Não,Não,5,3,Sim,Sim
+Particular,Lago Norte,1-20 minutos,Transporte Particular,Não,Sim,Particular,Biológicas,Sim,Exatas,Não,Não,5,5,Sim,Sim
+Particular,Jardim Botânico,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Saúde,Não,Não,5,4,Não,Sim
+Particular,Sudoeste/Octogonal,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Biológicas,Sim,Sim,5,2,Não,Sim
+Particular,Sudoeste/Octogonal,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,Exatas,Não,Sim,4,5,Sim,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Exatas,Não,Sim,5,5,Sim,Sim
+Particular,Lago Sul,21-40 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Saúde,Sim,Sim,4,3,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,1,1,Não,Sim
+Particular,Águas Claras,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Saúde,Não,Não,5,3,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Exatas,Não,Não,4,4,Sim,Não
+Particular,Paronoá,41 - 60 minutos,Transporte Público,Não,Talvez,Pública,Humanas,Sim,Exatas,Sim,Não,5,5,Sim,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Saúde,Sim,Sim,4,5,Não,Não
+Particular,Vicente Pires,21-40 minutos,Transporte Particular,Não,Sim,Pública,Biológicas,Sim,Exatas,Não,Não,5,5,Não,Sim
+Particular,Guará,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Sim,Sim,4,2,Não,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Saúde,Não,Não,4,2,Sim,Não
+Pública,Riacho Fundo,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Exatas,Não,Não,5,5,Sim,Sim
+Pública,Ceilândia,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Humanas,Sim,Exatas,Não,Não,5,2,Não,Sim
+Particular,Águas Claras,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,5,3,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Saúde,Não,Não,5,3,Não,Não
+Particular,Park Way,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,5,4,Não,Sim
+Pública,Vicente Pires,1-20 minutos,Transporte Particular,Sim,Sim,Pública,Humanas,Não,,Sim,Sim,4,3,Não,Sim
+Pública,Vicente Pires,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Não,,Não,Não,5,3,Não,Sim
+Particular,Vicente Pires,21-40 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Exatas,Sim,Sim,5,1,Não,Sim
+Pública,Taguatinga,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,Humanas,Não,Não,5,3,Não,Não
+Pública,Guará,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Não,,Sim,Sim,5,3,Não,Não
+Pública,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Particular,Biológicas,Sim,Exatas,Sim,Sim,5,3,Não,Sim
+Pública,Riacho Fundo II,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,4,3,Não,Não
+Particular,Lago Norte,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Sim,Sim,5,3,Sim,Não
+Pública,Guará,1-20 minutos,Transporte Público,Sim,Sim,Pública,Saúde,Não,,Sim,Sim,5,5,Sim,Não
+Pública,Recanto das Emas,41 - 60 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,4,3,Não,Não
+Particular,Águas Claras,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Exatas,Sim,Sim,5,2,Sim,Sim
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Não,5,3,Sim,Não
+Pública,Candangolândia,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Não,,Sim,Sim,5,2,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Biológicas,Sim,Sim,5,2,Não,Sim
+Particular,Lago Norte,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,2,Não,Não
+Pública,Sobradinho,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Saúde,Não,,Sim,Não,5,3,Não,Sim
+Pública,Sobradinho,41 - 60 minutos,Transporte Particular,Não,Sim,Particular,,Sim,,Sim,Sim,5,4,Sim,Sim
+Pública,Taguatinga,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Sim,5,4,Não,Não
+Pública,Guará,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Sim,5,1,Não,Sim
+Particular,Sobradinho,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Humanas,Sim,Humanas,Não,Não,5,3,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Exatas,Sim,Sim,5,3,Não,Sim
+Particular,Vicente Pires,1-20 minutos,Transporte Particular,Não,Sim,Particular,Saúde,Sim,Exatas,Sim,Sim,4,3,Sim,Sim
+Pública,Park Way,41 - 60 minutos,Transporte Público,Não,Sim,Pública,,Sim,Saúde,Sim,Não,5,3,Não,Sim
+Pública,Park Way,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,Saúde,Sim,Não,5,3,Não,Sim
+Pública,Paronoá,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,Exatas,Não,Não,5,5,Sim,Sim
+Pública,Paronoá,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,5,2,Não,Sim
+Pública,Itapoã,21-40 minutos,Transporte Público,Sim,Talvez,Pública,Saúde,Não,,Não,Sim,4,5,Sim,Não
+Pública,São Sebastião,41 - 60 minutos,Transporte Público,Sim,Sim,Particular,Exatas,Sim,Humanas,Sim,Sim,5,3,Sim,Sim
+Pública,Itapoã,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,Exatas,Sim,Sim,5,3,Não,Sim
+Pública,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,5,5,Sim,Não
+Pública,Itapoã,Uma hora ou mais,Transporte Particular,Não,Sim,Pública,,Não,,Não,Sim,5,5,Não,Não
+Pública,Itapoã,41 - 60 minutos,Transporte Público,Não,Talvez,Pública,Exatas,Sim,Exatas,Sim,Não,3,5,Sim,Não
+Pública,Lago Norte,1-20 minutos,Transporte Público,Não,Sim,Particular,Exatas,Sim,Saúde,Sim,Não,5,5,Sim,Sim
+Pública,Lago Norte,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Sim,Sim,5,3,Sim,Sim
+Pública,Lago Norte,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Saúde,Sim,Sim,5,3,Não,Sim
+Pública,Lago Norte,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Não,,Sim,Sim,5,5,Sim,Sim
+Pública,Lago Norte,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Não,5,5,Sim,Sim
+Particular,Lago Norte,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Sim,5,3,Não,Sim
+Pública,Samambaia,41 - 60 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Não,Não,4,5,Sim,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Exatas,Não,Não,5,3,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Não,Sim,5,2,Não,Sim
+Particular,Lago Norte,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,"Humanas, Saúde",Sim,Não,5,3,Sim,Sim
+Pública,Varjão,21-40 minutos,Transporte Público,Não,Sim,Pública,Biológicas,Sim,"Humanas, Saúde",Sim,Sim,5,5,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Não,5,3,Não,Sim
+Pública,Sol Nascente/Pôr do Sol,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Exatas,Não,,Sim,Sim,5,5,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Pública,Saúde,Não,,Sim,Sim,4,4,Sim,Sim
+Pública,Paronoá,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,"Exatas, Humanas",Sim,Sim,5,3,Não,Sim
+Pública,Planaltina,41 - 60 minutos,Transporte Público,Sim,Sim,Pública,Humanas,Não,,Não,Sim,5,5,Sim,Não
+Pública,Itapoã,Uma hora ou mais,Transporte Público,Sim,Sim,Pública,Saúde,Não,,Não,Não,5,5,Sim,Sim
+Pública,Itapoã,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,5,5,Sim,Sim
+Pública,Paronoá,41 - 60 minutos,Transporte Público,Não,Sim,Particular,Biológicas,Sim,Saúde,Sim,Não,3,4,Sim,Sim
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Particular,Exatas,Sim,Exatas,Sim,Sim,5,5,Sim,Não
+Particular,Águas Claras,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,Humanas,Sim,Não,5,3,Sim,Não
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,1,Não,Sim
+Particular,Vicente Pires,1-20 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,5,Sim,Não
+Particular,Águas Claras,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Humanas,Não,Sim,5,3,Sim,Não
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Exatas,Sim,Sim,5,3,Não,Não
+Particular,Vicente Pires,1-20 minutos,Transporte Público,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,5,5,Não,Sim
+Particular,Águas Claras,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Não,5,1,Não,Não
+Particular,Vicente Pires,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,Humanas,Não,Não,5,5,Sim,Sim
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,4,4,Não,Não
+Pública,Plano Piloto,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Saúde,Sim,Sim,5,3,Não,Não
+Particular,Vicente Pires,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,Saúde,Sim,Sim,5,4,Não,Sim
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Exatas,Sim,Sim,5,5,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,"Exatas, Saúde",Não,Sim,5,3,Não,Não
+Particular,Plano Piloto,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Saúde,Sim,Não,4,3,Não,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,5,3,Sim,Sim
+Particular,Taguatinga,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,"Exatas, Humanas",Sim,Sim,5,4,Sim,Não
+Particular,Lago Norte,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,"Exatas, Humanas",Não,Não,5,1,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,"Exatas, Biológicas",Não,Não,5,3,Não,Sim
+Particular,Sobradinho,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Sim,"Exatas, Biológicas",Sim,Sim,5,3,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,4,Não,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Sim,Sim,5,4,Não,Sim
+Pública,Samambaia,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Exatas,Sim,Humanas,Não,Sim,5,3,Não,Sim
+Particular,Vicente Pires,1-20 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Sim,Não,4,2,Não,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Humanas,Sim,Sim,4,4,Sim,Sim
+Particular,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Particular,Exatas,Sim,Saúde,Não,Não,4,3,Não,Não
+Particular,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Humanas,Não,Não,5,4,Sim,Não
+Pública,Sobradinho II,21-40 minutos,Transporte Particular,Não,Talvez,Particular,Humanas,Sim,Exatas,Não,Sim,1,2,Sim,Sim
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Talvez,Particular,Saúde,Sim,Saúde,Sim,Sim,5,5,Sim,Sim
+Pública,Paronoá,41 - 60 minutos,Transporte Público,Sim,Sim,Particular,Exatas,Não,,Não,Não,4,4,Sim,Não
+Pública,Sobradinho II,21-40 minutos,Transporte Público,Não,Talvez,Pública,Humanas,Sim,Saúde,Não,Sim,4,3,Sim,Sim
+Pública,Varjão,21-40 minutos,Transporte Público,Não,Sim,Particular,Exatas,Não,,Não,Não,5,5,Sim,Não
+Pública,Varjão,1-20 minutos,Transporte Público,Não,Sim,Particular,Saúde,Sim,Humanas,Sim,Sim,5,3,Sim,Não
+Pública,Varjão,21-40 minutos,Transporte Público,Não,Talvez,Particular,Exatas,Não,,Sim,Não,5,5,Sim,Não
+Pública,Varjão,1-20 minutos,Transporte Público,Sim,Sim,Pública,Humanas,Sim,Saúde,Não,Não,5,5,Sim,Sim
+Pública,Varjão,21-40 minutos,Transporte Público,Sim,Sim,Particular,Humanas,Sim,Humanas,Não,Não,5,5,Sim,Sim
+Pública,Varjão,21-40 minutos,Transporte Público,Sim,Sim,Particular,Saúde,Não,,Não,Não,5,5,Sim,Sim
+Pública,Varjão,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Sim,Não,4,4,Sim,Não
+Pública,Varjão,1-20 minutos,Transporte Público,Sim,Sim,Pública,Biológicas,Sim,Exatas,Sim,Não,4,4,Sim,Não
+Pública,Varjão,21-40 minutos,Transporte Público,Não,Talvez,,Humanas,Não,,Não,Não,5,5,Sim,Não
+Pública,Varjão,21-40 minutos,Transporte Público,Sim,Talvez,Pública,Humanas,Sim,Humanas,Sim,Não,4,4,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Sim,Sim,5,2,Sim,Sim
+Pública,Taguatinga,41 - 60 minutos,Transporte Público,Não,Talvez,Pública,Humanas,Não,,Não,Não,5,4,Sim,Sim
+Pública,Planaltina,41 - 60 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Não,,Não,Não,5,4,Sim,Sim
+Pública,Recanto das Emas,41 - 60 minutos,Transporte Particular,Sim,Não,,,Sim,Saúde,Sim,Sim,3,4,Sim,Sim
+Pública,Sobradinho,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Não,,Não,Não,4,4,Sim,Não
+Pública,Sobradinho,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Não,,Não,Sim,4,3,Não,Sim
+Pública,Varjão,21-40 minutos,Transporte Público,Sim,Sim,Pública,Humanas,Não,,Não,Sim,5,5,Sim,Sim
+Pública,Riacho Fundo,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Exatas,Sim,Saúde,Não,Não,5,5,Sim,Sim
+Pública,Lago Norte,1-20 minutos,Transporte Público,Não,Sim,Pública,Biológicas,Sim,"Exatas, Saúde",Não,Não,5,4,Sim,Sim
+Pública,Paronoá,Uma hora ou mais,Transporte Público,Sim,Sim,Pública,Humanas,Sim,Exatas,Não,Não,5,5,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Sim,Sim,5,3,Sim,Sim
+Pública,Varjão,1-20 minutos,Transporte Público,Não,Sim,Pública,Saúde,Não,,Sim,Sim,5,3,Não,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Particular,Humanas,Sim,Humanas,Sim,Não,4,3,Não,Não
+Pública,Varjão,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Exatas,Sim,Não,5,3,Sim,Sim
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,5,5,Não,Não
+Pública,Varjão,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Exatas,Sim,Sim,5,4,Não,Sim
+Pública,Planaltina,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,5,4,Não,Sim
+Pública,Plano Piloto,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,Exatas,Não,Não,5,3,Não,Não
+Pública,Jardim Botânico,1-20 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,"Exatas, Humanas",Não,Não,5,4,Sim,Não
+Pública,Águas Claras,21-40 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Humanas,Não,Sim,5,1,Não,Não
+Pública,Jardim Botânico,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Não,Não,5,4,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,"Humanas, Saúde",Sim,Sim,5,2,Não,Sim
+Pública,Guará,21-40 minutos,Transporte Particular,Sim,Sim,Pública,Exatas,Sim,"Exatas, Humanas",Não,Não,5,5,Sim,Não
+Pública,Itapoã,Uma hora ou mais,Transporte Particular,Não,Talvez,Pública,Humanas,Não,,Não,Não,5,5,Sim,Não
+Pública,Guará,21-40 minutos,Transporte Particular,Sim,Sim,Pública,Saúde,Sim,Humanas,Sim,Não,5,1,Não,Sim
+Pública,Guará,21-40 minutos,Transporte Particular,Sim,Sim,Particular,Saúde,Sim,Humanas,Não,Não,5,5,Sim,Não
+Pública,Lago Sul,21-40 minutos,Transporte Particular,Sim,Sim,Pública,Humanas,Sim,Saúde,Sim,Sim,5,4,Sim,Sim
+Pública,Lago Sul,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Não,,Não,Sim,5,3,Não,Sim
+Pública,Plano Piloto,21-40 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,"Exatas, Humanas",Sim,Sim,5,2,Não,Sim
+Pública,São Sebastião,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,"Humanas, Biológicas",Não,Não,5,4,Sim,Sim
+Pública,São Sebastião,1-20 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,5,5,Sim,Sim
+Pública,Vicente Pires,21-40 minutos,Transporte Particular,Não,Sim,Particular,Humanas,Sim,Humanas,Não,Não,5,5,Não,Não
+Pública,Cruzeiro,21-40 minutos,Transporte Particular,Não,Sim,Pública,Saúde,Sim,Saúde,Não,Sim,4,3,Sim,Sim
+Pública,Águas Claras,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Exatas,Sim,"Exatas, Humanas, Saúde, Biológicas",Sim,Sim,4,2,Sim,Não
+Pública,Park Way,21-40 minutos,Transporte Público,Sim,Sim,Pública,Exatas,Não,Exatas,Sim,Sim,5,3,Sim,Sim
+Pública,Santa Maria,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Saúde,Sim,"Exatas, Humanas",Não,Sim,5,1,Sim,Não
+Pública,Lago Sul,1-20 minutos,Transporte Particular,Sim,Sim,Particular,Humanas,Sim,Saúde,Sim,Sim,3,2,Sim,Não
+Pública,Jardim Botânico,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Sim,Sim,5,5,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Particular,Sim,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,3,Sim,Sim
+Pública,São Sebastião,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Não,Não,5,5,Sim,Não
+Pública,Lago Norte,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,"Exatas, Humanas",Sim,Sim,5,2,Não,Sim
+Pública,Paronoá,21-40 minutos,Transporte Público,Não,Sim,Pública,Saúde,Não,,Não,Sim,5,2,Não,Sim
+Pública,Lago Sul,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Não,Não,5,2,Não,Não
+Pública,Jardim Botânico,21-40 minutos,Transporte Público,Não,Sim,Pública,Exatas,Não,,Não,Não,5,3,Sim,Não
+Pública,São Sebastião,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,"Exatas, Humanas, Saúde",Sim,Sim,5,2,Sim,Não
+Pública,Itapoã,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Humanas,Não,,Não,Não,4,3,Não,Sim
+Pública,Paronoá,Uma hora ou mais,Transporte Público,Sim,Sim,Pública,Saúde,Sim,"Humanas, Saúde",Não,Sim,4,5,Sim,Sim
+Pública,Itapoã,21-40 minutos,Transporte Público,Não,Talvez,Pública,Humanas,Sim,Exatas,Sim,Não,5,5,Sim,Não
+Pública,Jardim Botânico,21-40 minutos,Transporte Particular,Não,Sim,Pública,Humanas,Sim,Saúde,Sim,Sim,4,2,Não,Sim
+Pública,Águas Claras,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Humanas,Sim,Saúde,Sim,Sim,3,4,Sim,Não
+Pública,Jardim Botânico,1-20 minutos,Transporte Particular,Não,Sim,Particular,Exatas,Não,,Sim,Sim,4,5,Sim,Não
+Pública,Plano Piloto,1-20 minutos,Transporte Particular,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Sim,5,1,Não,Não
+Pública,Lago Sul,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,Exatas,Sim,Sim,5,3,Não,Sim
+Pública,Jardim Botânico,21-40 minutos,Transporte Público,Não,Talvez,Pública,Humanas,Sim,Saúde,Sim,Sim,2,3,Sim,Não
+Pública,Itapoã,1-20 minutos,Transporte Público,Não,Sim,Particular,Biológicas,Não,,Sim,Não,5,5,Sim,Sim
+Pública,Jardim Botânico,21-40 minutos,Transporte Público,Não,Sim,Pública,Humanas,Sim,"Humanas, Biológicas",Sim,Não,5,2,Não,Não
+Pública,Itapoã,1-20 minutos,Transporte Público,Não,Sim,Particular,Saúde,Não,,Sim,Não,5,5,Sim,Sim
+Pública,Plano Piloto,41 - 60 minutos,Transporte Público,Não,Sim,Pública,Exatas,Sim,Exatas,Sim,Não,5,3,Sim,Não
+Pública,São Sebastião,Uma hora ou mais,Transporte Público,Não,Sim,Pública,Saúde,Não,,Não,Sim,5,5,Sim,Sim
